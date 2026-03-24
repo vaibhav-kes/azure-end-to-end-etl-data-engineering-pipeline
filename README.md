@@ -80,19 +80,19 @@ The flow of the pipeline is as follows:
 
 •	Set up a Storage Account “adeprojectdata” with two containers:
 
-![4  Storage Accountt](https://github.com/vaibhav-kes/azure-end-to-end-etl-data-engineering-pipeline/blob/main/screenshot2.png?raw=true)
+![4  Storage Accountt](https://github.com/user-attachments/assets/0c4db026-1042-4f8d-8056-fb4ca8ad7768)
 
 o	raw – for raw CSV ingestion
 
 o	transformed – for storing cleaned datasets
 
-![5  Data Lakes](https://github.com/user-attachments/assets/043d5c71-9bb4-424b-be17-3ecbb20c353c)
+![5  Data Lakes](https://github.com/user-attachments/assets/a6242db2-a3d8-439b-af9c-1262b187096e)
 
 ### **b. GitHub – Data Source**
 
 The Olympic dataset is hosted in CSV format on GitHub.
 
-![6  Github Rep Image](https://github.com/user-attachments/assets/eb888d09-453d-4e36-8a9c-644b7f6b4140)
+![6  Github Rep Image](https://github.com/user-attachments/assets/4c9023f1-e245-4504-94e8-7400757df68a)
 
 ### **c. Azure Data Factory – Data Ingestion**
 
@@ -102,7 +102,7 @@ The Olympic dataset is hosted in CSV format on GitHub.
 
 o	Reads CSV files from GitHub using HTTP connector
 
-![7  ADF ETL workflow](https://github.com/user-attachments/assets/bd0002ee-6973-444a-93cf-d250d47133cb)
+![7  ADF ETL workflow](https://github.com/user-attachments/assets/2ec3d82d-ee13-4e47-a8db-fb4b6878595c)
 
 o	Writes them to the Raw Data Lake container
 
