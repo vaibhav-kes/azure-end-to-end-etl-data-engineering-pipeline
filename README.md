@@ -75,7 +75,7 @@ The flow of the pipeline is as follows:
 
 •	Created a Resource Group named “Azure-DE-Project”.
 
-![3  Resource Gorup](<img width="2894" height="1472" alt="Image" src="https://github.com/user-attachments/assets/0e63e32f-6307-4876-9c3c-f7a8682848c1" />)
+![3  Resource Gorup](https://github.com/user-attachments/assets/e70519be-6ada-46c7-856d-5ac239c18e44)
 
 
 •	Set up a Storage Account “adeprojectdata” with two containers:
