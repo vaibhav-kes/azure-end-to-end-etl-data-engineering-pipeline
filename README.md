@@ -106,7 +106,7 @@ o	Reads CSV files from GitHub using HTTP connector
 
 o	Writes them to the Raw Data Lake container
 
-![8  Dump - Raw DL](https://github.com/user-attachments/assets/6dda409c-66ce-4191-a8ec-84f731fa92aa)
+![8  Dump - Raw DL](https://github.com/user-attachments/assets/8c626d03-1184-4987-81ea-371a03ef120a)
 
 ### **d. Azure Databricks – Data Transformation**
 
@@ -114,7 +114,7 @@ o	Writes them to the Raw Data Lake container
 
 •	Created a compute cluster and a notebook using PySpark.
 
-![9  Databricks - Compute](https://github.com/user-attachments/assets/bdcebf8d-951d-4814-8e72-48fa66080eda)
+![9  Databricks - Compute](https://github.com/user-attachments/assets/02f15877-f798-4d28-8b49-c93fd61e19f6)
 
 •	Registered an Azure App (App01) and used Azure Key Vault to store authentication secrets.
 
@@ -131,7 +131,7 @@ o	Writes them to the Raw Data Lake container
 ![12  Databricks - Dump into TRFM Data Lake](https://github.com/user-attachments/assets/f5581db2-ed97-4447-b575-e4a3c25403db)
 
 • Transformed Data Lake container
-![12 1  Transform Data Lake](https://github.com/user-attachments/assets/85e6b702-9ed8-4d32-99a5-280f41cc18e3)
+![12 1  Transform Data Lake](https://github.com/user-attachments/assets/28e605a1-be1c-4fe3-8120-9e08412002f2)
 
 ### **e. Azure Synapse Analytics – Data Warehousing & Querying**
 
@@ -140,11 +140,11 @@ o	Writes them to the Raw Data Lake container
 •	Created a dedicated SQL pool and imported the transformed datasets into structured tables:
 o	Athletes, Coaches, EntriesGender, Medals, Teams
 
-![13  Azure Sy - Database  pull from trfm dl](https://github.com/user-attachments/assets/77348cce-cf64-415e-93d6-741c9be2bb36)
+![13  Azure Sy - Database  pull from trfm dl](https://github.com/user-attachments/assets/f81634c3-b228-4b06-9b70-469a4c06170c)
 
 •	Wrote SQL queries to extract meaningful insights from the datasets.
 
-![14  Azure Sy - SQL query](https://github.com/user-attachments/assets/2c41368c-ec25-4a0c-8578-c08929518597)
+![14  Azure Sy - SQL query](https://github.com/user-attachments/assets/f54c81ba-4b08-40fe-bce7-a20bd8f3df44)
 
 ### **f. Power BI – Visualization**
 
