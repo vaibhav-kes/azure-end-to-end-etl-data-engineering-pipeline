@@ -77,6 +77,7 @@ The flow of the pipeline is as follows:
 
 ![3  Resource Gorup](https://github.com/user-attachments/assets/8c949d70-8866-4cdb-aa5c-e397d6663144)
 
+
 •	Set up a Storage Account “adeprojectdata” with two containers:
 
 ![4  Storage Accountt](https://github.com/user-attachments/assets/ef779936-53e8-40a5-8102-1f9345fe737c)
