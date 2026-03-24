@@ -75,7 +75,7 @@ The flow of the pipeline is as follows:
 
 •	Created a Resource Group named “Azure-DE-Project”.
 
-![3  Resource Gorup](https://github.com/user-attachments/assets/8c949d70-8866-4cdb-aa5c-e397d6663144)
+![3  Resource Gorup](https://github.com/vaibhav-kes/azure-end-to-end-etl-data-engineering-pipeline/blob/main/screensort1.png?raw=true)
 
 
 •	Set up a Storage Account “adeprojectdata” with two containers:
