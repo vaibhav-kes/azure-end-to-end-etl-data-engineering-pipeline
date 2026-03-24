@@ -1,4 +1,4 @@
-# **Azure Data Engineering End-to-End ETL Pipeline Project**
+# **Azure-end-to-end-etl-data-engineering-pipeline**
 ![1  Main](https://github.com/user-attachments/assets/c3ae66a9-1257-4d64-b5ae-2f217b6b7963)
 
 ## **1. Introduction**
@@ -170,4 +170,12 @@ This project successfully demonstrates the implementation of a full data enginee
 •	Creating dashboards with Power BI & DAX
 
 •	Integrating cloud services and automating data flows
+
+#### 👤 Author
+
+**Vaibhav Kesarwani**
+Aspiring Data Analyst
+
+🔗 LinkedIn: www.linkedin.com/in/vaibhav-kesarwani-b73750293
+----
 
