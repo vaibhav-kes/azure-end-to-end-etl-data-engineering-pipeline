@@ -80,7 +80,7 @@ The flow of the pipeline is as follows:
 
 •	Set up a Storage Account “adeprojectdata” with two containers:
 
-![4  Storage Accountt](https://github.com/user-attachments/assets/ef779936-53e8-40a5-8102-1f9345fe737c)
+![4  Storage Accountt](https://github.com/vaibhav-kes/azure-end-to-end-etl-data-engineering-pipeline/blob/main/screenshot2.png?raw=true)
 
 o	raw – for raw CSV ingestion
 
